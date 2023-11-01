@@ -1,0 +1,124 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+.header{
+    height: 240px;
+    width: 100%;
+    /* background-color: rgb(0, 0, 0); */
+    color: rgb(3, 255, 242);
+    text-align: center;
+    font-family: cursive;
+    background-image: url(my\ pic\ 89.avif);
+    background-size: cover;
+    
+}
+h1{
+    font-weight: 900;
+}
+.first{
+    height: 500px;
+    width: 100%;
+    background-image: url("my\ pic90.avif");
+    background-size:cover;
+    /* text-align: center; */
+    color: aliceblue;
+     display: flex;
+    align-items: center; 
+}
+#text{
+    padding-top:100px ;
+    font-family: cursive  ;
+    font-size: larger;
+    font-weight: 800;
+    padding-left: 700px;
+}
+/* #mainbox{
+    height: 47px;
+    width: 130px;
+    border: 1px solid white;
+    margin-top: 400px;
+    margin-right: 500px;
+} */
+.pink{
+    color: rgb(204, 234, 35);
+    font-size: 50px;
+    font-weight: 700;
+    font-family: cursive;
+}
+#about{
+    text-align: center;
+    background-color: rgb(246, 233, 245);
+    background-image: url(my\ pic991.avif);
+    background-size: cover;
+}
+#resume{
+    text-align: center;
+    background-image: url(my\ pic\ 990.avif);
+    background-size: cover;
+    color: white;
+}
+.border{
+    background-color: rgb(163, 38, 252);
+    height: 10px;
+}
+#skills{
+    text-align: center;
+    background-image: url(my\ pic\ 999.avif);
+    background-size: cover;
+    background-color: rgb(246, 233, 245);
+}
+#contact{
+    text-align: center;
+    color: white;
+    /* background-color: black; */
+    background-image: url(my\ pic\ 909.avif);
+    background-size: cover;
+}
+.feedback{
+    text-decoration: none;
+    height: 150px;
+    width: 900PX;
+    background-color: black;
+    color: rgb(107, 60, 95);
+}
+.hd{
+    color: rgb(204, 234, 35);
+}
+#footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 80px;
+    width: 100%;   
+   display: inline-flex;
+   justify-content: center; 
+}
+.icon{
+    width: 80px;
+}
+.progress{
+    width: 1000px;
+}
+/* .pp{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+} */
+.border1{
+    background-color: rgb(32, 32, 32);
+    height: 40px;
+}
+.border2{
+    height: 30px;
+    background-color: rgb(188, 150, 203);
+}
+.border3{
+    height: 30px;
+    background-color: rgb(243, 171, 188);
+}
+.navbar {
+    background-color: rgb(254, 238, 219);
+
+}
